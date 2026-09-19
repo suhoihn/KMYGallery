@@ -20,7 +20,7 @@ const eras = [
       },
       {
         title: "Small studies",
-        items: ["Simple Rectangle I & II", "Circle", "Stem-and-leaf", "BoonSan", "Excelism Graphy Persecution"],
+        items: ["Simple Rectangle I & II", "Circle", "Stem-and-leaf", "BoonSan", "Excelism Graphy Persecution", "3D cube experiment", "Camera and tracking studies", "Slope and ray-casting tests"],
       },
     ],
   },
@@ -35,7 +35,7 @@ const eras = [
       },
       {
         title: "Game architecture",
-        items: ["Real Platformer", "Board Game", "Shooting Game", "Spring Fair game", "RPG prototype", "3D Games in Python"],
+        items: ["Real Platformer", "Board Game", "Shooting Game", "Spring Fair game", "RPG prototype", "3D Games in Python", "A New Beginning — platformer", "Super Mario Remake — fan learning project", "Moving Simulator — RPG Maker project"],
       },
       {
         title: "Studies & fan experiments",
@@ -43,7 +43,7 @@ const eras = [
       },
       {
         title: "Foundations beyond games",
-        items: ["Java fundamentals and OOP exercises", "Quiz Game", "Java GUI studies", "Arduino piano", "Arduino song and hardware sketches"],
+        items: ["Java fundamentals and OOP exercises", "Quiz Game", "Java GUI studies", "Arduino piano", "Arduino Pong", "TFT display experiments", "LED sketches", "Arduino master/slave communication"],
       },
     ],
   },
@@ -58,7 +58,15 @@ const eras = [
       },
       {
         title: "Data & coursework",
-        items: ["Content-based movie recommender", "Collaborative-filtering recommender", "Recommendation study interface", "The Ultimate IA", "CS club experiments"],
+        items: ["Content-based movie recommender", "Collaborative-filtering recommender", "Recommendation study interface", "The Ultimate IA", "CS club experiments", "Sudoku solver", "Clock-angle study", "String and number utilities"],
+      },
+      {
+        title: "Learning platforms",
+        items: ["Blue Dragon — Unity English-learning game", "Three word and alphabet game modes", "Player profiles, levels, XP, and coins", "Reinforcement-learning difficulty adaptation", "Self-Learning Math — MERN revision platform", "Question bank and personalised recommendations", "Bookmarks, history, and administration tools"],
+      },
+      {
+        title: "Arcade prototypes",
+        items: ["Arcade Boss Shooter — school-era Pygame project", "Target-shooter prototype", "Boss, projectile, and effects systems"],
       },
     ],
   },
@@ -74,6 +82,10 @@ const eras = [
       {
         title: "Quartet 4 performance",
         items: ["Pygame-CE migration", "Cython enemy utilities", "Cython/C++ quadtree", "Compiled utility modules", "Profiling and memory investigation"],
+      },
+      {
+        title: "Hackathon & experiments",
+        items: ["Sussex Hackathon Grocery Manager", "React + Express + MongoDB inventory prototype", "Rhythm game experiments", "3D projection and tilting-platform tests", "Beep editor", "C++ math parser", "C++ rhythm-game experiment"],
       },
     ],
   },
@@ -93,6 +105,10 @@ const eras = [
       {
         title: "Full-stack studies",
         items: ["Kotlin/Spring quote API", "React quote interface", "React + Express test app", "Small C++ linking experiments"],
+      },
+      {
+        title: "Recent curiosities",
+        items: ["Weird Window", "Runaway window experiment", "Native C and Win32 interface studies"],
       },
     ],
   },
